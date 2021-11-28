@@ -28,6 +28,7 @@
 ## <p align=center> Experimental
  
   ## <p align=center> Analítico
+![image](https://user-images.githubusercontent.com/93786746/143790093-51fe28ac-5f13-4199-b4cb-c87040c32f04.png)
 
 
 ## 4. Respuesta a Interrogantes y cálculo de error
