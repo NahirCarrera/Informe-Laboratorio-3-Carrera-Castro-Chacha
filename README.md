@@ -19,8 +19,15 @@
   ## <p align=center> Análisis de Nodos
 
 ## 3. Explicación del Procedimiento
-   ## Materiales
-
+  ## Materiales
+  * 2 Fuentes de voltaje CD
+  * 3 Multímetros Digitales
+  * 1 Resistor (1.8 kohms)
+  * 1 Resistor (470 ohms)
+  * 1 Resistor (2.2 kohms)
+  * 1 Resistor (3.9 kohms)
+  * 1 Resistor (1.5 kohms)
+  * 1 Protoboard
    ## Procedimiento
 ![image](https://user-images.githubusercontent.com/93786746/143790713-a2a19873-9a35-4ee2-8752-e3bc0d3e45ca.png)
 
