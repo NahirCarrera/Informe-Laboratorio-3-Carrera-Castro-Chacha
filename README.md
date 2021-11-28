@@ -28,6 +28,7 @@
 ## <p align=center> Experimental
  
   ## <p align=center> Analítico
+![image](https://user-images.githubusercontent.com/93786746/143790422-65296ccf-038f-4e97-b884-04e021a7f429.png)
 ![image](https://user-images.githubusercontent.com/93786746/143790093-51fe28ac-5f13-4199-b4cb-c87040c32f04.png)
 
 
