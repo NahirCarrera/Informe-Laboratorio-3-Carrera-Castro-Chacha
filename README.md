@@ -7,3 +7,35 @@
 * Castro Chugchilan Paúl Enrique
 * Chacha Chacha Kevin Alejandro
 ## 1. Objetivos
+  ### General: 
+  * 
+  ### Específicos
+  *
+  *
+  *
+## 2. Marco Teórico
+  ## <p align=center> Materiales
+  
+  ## <p align=center> Análisis de Nodos
+
+## 3. Explicación del Procedimiento
+   ## Materiales
+
+   ## Procedimiento
+
+## <p align=center> Simulación
+
+## <p align=center> Experimental
+ 
+  ## <p align=center> Analítico
+
+
+## 4. Respuesta a Interrogantes y cálculo de error
+
+
+## 5. Video
+
+## 6. Conclusiones
+ 
+## 7. Bibliografía
+ * Floyd, T. (2007). _Principios De Circuitos Eléctricos_. Octava edición. México. Pearson Education.
