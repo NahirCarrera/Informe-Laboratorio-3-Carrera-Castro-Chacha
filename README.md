@@ -22,13 +22,38 @@
    ## Materiales
 
    ## Procedimiento
+![image](https://user-images.githubusercontent.com/93786746/143790713-a2a19873-9a35-4ee2-8752-e3bc0d3e45ca.png)
 
 ## <p align=center> Simulación
-
+ 1. Implementar el circuito mostrado utilizando el simulador Multisim:
+![Circuito Sim](https://user-images.githubusercontent.com/93786746/143790812-67aad6b5-a70b-4783-9eb3-fecfc851fea0.PNG)
+  
+ _Ilustración 1. Implementación del circuito en el simulador Multisim_  
+2. Medir el voltaje de cada uno de los nodos principales y anotar los resultados en la tabla 3.1
+![Simulador](https://user-images.githubusercontent.com/93786746/143790851-4bd5d4f3-3f5d-48ab-ac65-5d352f24e8d8.PNG)
+  
+_Ilustración 2. Medición de voltaje en nodos en el simulador Multisim_
 ## <p align=center> Experimental
- 
+ 1. Implementar el circuito utilizando el laboratorio virtual Tinkercad:
+![Circuito Lab](https://user-images.githubusercontent.com/93786746/143790859-6c084e95-5c1e-4aec-a112-3cee4e09e9dc.PNG) 
+  
+_Ilustración 3. Implementación del circuito en laboratorio virtual Tinkercad_ 
+  
+  2. Medir el voltaje de cada uno de los nodos principales y anotar los resultados en la tabla 3.1
+![Laboratorio](https://user-images.githubusercontent.com/93786746/143790900-578f65bf-e196-4abc-88fc-eb5c22c2d347.PNG)
+  
+_Ilustración 4.Medición de voltaje en nodos en el laboratorio virtual Tinkercad_
+  
+  3. Comparar los valores de la tabla 3.1 de los resultados analíticos, simulados y experimentales.
+  
+  4. Establecer un porcentaje de error y realizar conclusiones.
+  
+  ## Cálculos de Respaldo
   ## <p align=center> Analítico
 ![image](https://user-images.githubusercontent.com/93786746/143790422-65296ccf-038f-4e97-b884-04e021a7f429.png)
+
+_Ilustración 5. Análisis del circuito_ 
+    
 ![image](https://user-images.githubusercontent.com/93786746/143790093-51fe28ac-5f13-4199-b4cb-c87040c32f04.png)
 
 
