@@ -15,7 +15,7 @@
   * Exponer los datos recolectados en la práctica a través de un archivo multimedia para la fundamentación de la práctica.
 ## 2. Marco Teórico
   ## <p align=center> Materiales
-  
+  ![Diagrama en blanco (1)](https://user-images.githubusercontent.com/93829976/143818982-eb73fd10-9961-43bd-a84d-7ef0bd13aedc.jpeg)
   ## <p align=center> Análisis de Nodos
 ![Análisis de Nodos](https://user-images.githubusercontent.com/93829976/143817418-f5bc99c8-51e5-413a-974a-70f6c8b6530a.jpeg)
 ## 3. Explicación del Procedimiento
