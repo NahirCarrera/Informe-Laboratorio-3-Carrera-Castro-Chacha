@@ -17,7 +17,7 @@
   ## <p align=center> Materiales
   
   ## <p align=center> Análisis de Nodos
-![Análisis de Nodos](https://user-images.githubusercontent.com/93829976/143817327-ce3f5fb6-0a20-43a6-af7b-cb86bb9c0d2d.png)
+![Análisis de Nodos](https://user-images.githubusercontent.com/93829976/143817418-f5bc99c8-51e5-413a-974a-70f6c8b6530a.jpeg)
 ## 3. Explicación del Procedimiento
   ## Materiales
   * 2 Fuentes de voltaje CD
