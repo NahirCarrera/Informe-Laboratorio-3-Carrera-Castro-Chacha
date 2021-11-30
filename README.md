@@ -54,7 +54,12 @@ _Ilustración 4.Medición de voltaje en nodos en el laboratorio virtual Tinkerca
   3. Comparar los valores de la tabla 3.1 de los resultados analíticos, simulados y experimentales.
   
   4. Establecer un porcentaje de error y realizar conclusiones.
-  
+  _Tabla 3.1 Resultados obtenidos para el circuito de la figura 3.1._
+  ![TABLA 1](https://user-images.githubusercontent.com/93829976/143984763-450eeefd-d370-40f4-aef7-239713a8e8c4.JPG)
+  _Tabla 3.2 Cálculo de error Resultados analíticos - experimentales_
+  ![TABLA 2](https://user-images.githubusercontent.com/93829976/143984792-ca963bed-a9b1-43fc-8f7a-620164bbbe7d.JPG)
+  _Tabla 3.3 Cálculo de error Resultados analíticos - simulados_
+  ![TABLA 3](https://user-images.githubusercontent.com/93829976/143984864-2aebef23-373b-4b23-91eb-6cb0344c1a2e.JPG)
   ## Cálculos de Respaldo
   ## <p align=center> Analítico
 ![image](https://user-images.githubusercontent.com/93786746/143790422-65296ccf-038f-4e97-b884-04e021a7f429.png)
